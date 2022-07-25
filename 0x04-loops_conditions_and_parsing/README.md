@@ -7,11 +7,11 @@
 ## Resources
 ### Read or watch:
 
-    - [Loops sample](https://alx-intranet.hbtn.io/rltoken/wT98UJfv_E2tk4yP9PcLLw)
-    - [Variable assignment and arithmetic](https://alx-intranet.hbtn.io/rltoken/olvOKX699pq50rkHRE5cSA)
-    - [Comparison operators](https://alx-intranet.hbtn.io/rltoken/HxohzllkOWh0t4dy_HptIQ)
-    - [File test operators](https://alx-intranet.hbtn.io/rltoken/g8of2ABPEJfCNtPrDQaqVw)
-    - [Make your scripts portable](https://alx-intranet.hbtn.io/rltoken/O0Ay21p7tDhfLMsYbtAKug)
+- [Loops sample](https://alx-intranet.hbtn.io/rltoken/wT98UJfv_E2tk4yP9PcLLw)
+- [Variable assignment and arithmetic](https://alx-intranet.hbtn.io/rltoken/olvOKX699pq50rkHRE5cSA)
+- [Comparison operators](https://alx-intranet.hbtn.io/rltoken/HxohzllkOWh0t4dy_HptIQ)
+- [File test operators](https://alx-intranet.hbtn.io/rltoken/g8of2ABPEJfCNtPrDQaqVw)
+- [Make your scripts portable](https://alx-intranet.hbtn.io/rltoken/O0Ay21p7tDhfLMsYbtAKug)
 
 ###  man or help:
 
